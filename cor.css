@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Josefin+Sans:ital,wght@0,500;1,500&display=swap');
+
+main{ 
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style:normal;
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 10px 5px #5B8FF0 ;
+}
+    body{
+        background-image: linear-gradient(#5BBEF0,#5B60F0,#5B8FF0,#5BEDF0,#865BF0,#ABC3F0);
+    }
+    h1{
+        font-family: "Gruppo", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: #0f3a8f;
+        text-align: center;
+        text-shadow: 3px 2px 4px #0f3a8f;
+    }
+    h2{
+        font-family: "Gruppo", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: #07245f;
+        text-align: center;
+    }
+    p{
+        color: black;
+    
+    }
+    ul{
+        text-align: center;
+    }
+    li{
+        color: black;
+        text-align: center;
+    }
